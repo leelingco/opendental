@@ -1,0 +1,99 @@
+//
+// Translated by CS2J (http://www.cs2j.com): 2/15/2016 8:00:51 PM
+//
+
+package OpenDentBusiness;
+
+
+public enum EnumType
+{
+    /**
+    * This is an enumeration of all the enumeration types that are used in the database.  This is used in the reporting classes to make the data human-readable.  May need to be updated with recent additions.
+    */
+    YN,
+    /**
+    * 
+    */
+    Relat,
+    /**
+    * 
+    */
+    Month,
+    /**
+    * 
+    */
+    ProcStat,
+    /**
+    * 
+    */
+    DefCat,
+    /**
+    * 
+    */
+    TreatmentArea,
+    /**
+    * 
+    */
+    DentalSpecialty,
+    /**
+    * 
+    */
+    ApptStatus,
+    /**
+    * 
+    */
+    PatientStatus,
+    /**
+    * 
+    */
+    PatientGender,
+    /**
+    * 
+    */
+    PatientPosition,
+    /**
+    * 
+    */
+    ScheduleType,
+    /**
+    * 
+    */
+    LabCase,
+    /**
+    * 
+    */
+    PlaceOfService,
+    /**
+    * 
+    */
+    PaintType,
+    /**
+    * 
+    */
+    SchedStatus,
+    /**
+    * 
+    */
+    AutoCondition,
+    /**
+    * 
+    */
+    ClaimProcStatus,
+    /**
+    * 
+    */
+    CommItemType,
+    /**
+    * 
+    */
+    ToolBarsAvail,
+    /**
+    * 
+    */
+    ProblemStatus,
+    /**
+    * 
+    */
+    EZTwainErrorCode
+}
+

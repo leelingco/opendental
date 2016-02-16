@@ -1,0 +1,83 @@
+//
+// Translated by CS2J (http://www.cs2j.com): 2/15/2016 8:00:57 PM
+//
+
+package OpenDentBusiness;
+
+
+public enum LanguageType
+{
+    /**
+    * 
+    */
+    Arabic,
+    /**
+    * 
+    */
+    Chinese,
+    /**
+    * 
+    */
+    ChineseSimplified,
+    /**
+    * 
+    */
+    Creole,
+    /**
+    * 
+    */
+    English,
+    /**
+    * 
+    */
+    French,
+    /**
+    * 
+    */
+    German,
+    /**
+    * 
+    */
+    Greek,
+    /**
+    * 
+    */
+    Italian,
+    /**
+    * 
+    */
+    Japanese,
+    /**
+    * 
+    */
+    Korean,
+    /**
+    * 
+    */
+    Polish,
+    /**
+    * 
+    */
+    Portuguese,
+    /**
+    * 
+    */
+    Russian,
+    /**
+    * 
+    */
+    Spanish,
+    /**
+    * 
+    */
+    Tagalog,
+    /**
+    * 
+    */
+    Turkish,
+    /**
+    * 
+    */
+    Vietnamese
+}
+
